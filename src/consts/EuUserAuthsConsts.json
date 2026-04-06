@@ -1,0 +1,49 @@
+{
+  "appName": "CT(Candidates Tracking) Portal End Users - B2B End Users / Candidates / Applicants Login Authentication API Service",
+  "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by SkillworksIT <contact@skillworksit.com>, Aug 2024",
+
+  "passportData": {
+    "statusErr": "There was a troble with your account, please reach admin.",
+    "userNotExist": "Account does not exist with provided Email.",
+    "invalidPswd": "Entered wrong password.",
+    "active": "Active",
+    "blocked": "Blocked", 
+    "hold": "Hold", 
+    "inactive": "Inactive",
+    "op": "Open"
+  },
+  "ssnData": {
+    "active": "Active",
+    "expire": "Expired",
+    "at": "Web App"
+  },
+  "otpData": {
+    "numStr": "6789012345123498765",
+    "otpMsg": "OTP Sent Successfully",
+    "otf": "OTP Sent failed",
+    "ovs": "OTP verified successfully",
+    "ovf": "OTP verification failed",
+    "otforgot": "Forgot",
+    "otReset": "reset-password",
+    "osVerified": "Verified",
+    "osNVerified": "Not Verified",
+    "pco": "Provide correct OTP",
+    "rps": "Reset password success"
+  },
+  "opi": "Current Password is invalid",
+  "pus": "Password updated successfully",
+  "puf": "Password update failed",
+  "emailData": {
+    "mailSub": "CTPORTAL-ForgotPassword-OTP",
+    "mailMsg01": "<p>No Reply, this is system generated mail</p> </br> <p>CTP - Forgot Password Verification OTP: <h1>",
+    "mailMsg02": "</h1> </p>"
+  },
+
+  "uType": "End User",
+  "atStr": "abcdefghijklmNOPQRSTUVWXYZnopqrstuvwxyzabcdefghijklmABCDEFGHIJKLMnopqrstuvwxyz",
+  "cCode": "IND",
+  "sCode": "TS",
+  "uName": "Consultant",
+  "openSts": "Open",
+  "activeSts": "Active"
+}

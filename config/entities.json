@@ -1,0 +1,16 @@
+{
+    "ctportal.skillworksit.com": "swit",
+    "ctportal.teksolveit.com": "teksolve",
+    "ctportal.epicitsol.com": "epicit",
+    "ctportal.metrixit.com": "metrix",
+
+    "localhost:4212": "swit",
+    "localhost:4217": "teksolve",
+    "localhost:4208": "epicit",
+    "localhost:4210": "metrix",
+
+    "192.168.68.62:4212": "swit",
+    "192.168.68.62:4217": "teksolve",
+    "192.168.68.62:4208": "epicit",
+    "192.168.68.62:4210": "metrix"
+}
